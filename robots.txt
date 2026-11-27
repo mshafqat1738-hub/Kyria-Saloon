@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kyriasaloon.com/sitemap.xml
